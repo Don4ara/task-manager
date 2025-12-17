@@ -2,6 +2,12 @@
   "name": "task-manager",
   "private": true,
   "version": "0.0.0",
+  "description": "A modern task manager application built with Electron and React.",
+  "author": "Don4ara",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Don4ara/task-manager.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
