@@ -3,7 +3,6 @@ import { Checkbox } from "@/components/ui/checkbox"
 import { Button } from "@/components/ui/button"
 import { Trash2, CalendarClock, ListTodo } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
-import { cn } from "@/lib/utils"
 import { format } from 'date-fns';
 import { ru } from 'date-fns/locale';
 
